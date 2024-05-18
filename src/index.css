@@ -34,7 +34,7 @@ div#root {
 }
 
 body {
-  background-image: url('../public/paisaje.jpg');
-  background-size: cover; /* Para que la imagen se ajuste al tamaño del cuerpo */
-  background-position: center; /* Para centrar la imagen en el cuerpo */
+  background-image: url('../public/paisaj.png');
+  background-size: cover; 
+  background-position: center; 
 }
