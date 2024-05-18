@@ -13,7 +13,7 @@ function App() {
     <div className="App text-white">
       <div className="p-10">
         <div className="flex justify-between w-3/5">
-          <img className="w-20 h-20 rounded-full" src="image7.jpeg" />
+          <img className="w-24 h-24 rounded-full" src="image7.jpeg" />
           <div className="text-5xl font-semibold">Eco Reto Tour</div>
         </div>
 
@@ -345,7 +345,7 @@ function App() {
               </div>
               <img
                 className="p-6 cursor-pointer"
-                src="ParqueNacionalTortuguero.png"
+                src="Tortuguero.jpeg"
                 onClick={() => setImage5(!image5)}
               />
 
